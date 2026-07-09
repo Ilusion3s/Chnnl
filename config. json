@@ -1,6 +1,6 @@
 {
     "active": true,
-    "min_version": "3.0.0",
+    "min_version": "1.0.0",
     "block_message": "📱 Nueva versión disponible",
     "download_url": "https://tu-pagina.com/descargar"
 }
