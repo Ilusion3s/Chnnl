@@ -1,6 +1,6 @@
 {
-  "enabled": false,
-  "message": "📱 Nueva versión disponible con mejoras",
-  "update_url": "https://tu-sitio.com/descargar",
-  "version": "2.0"
+    "active": true,
+    "min_version": "2.0.0",
+    "block_message": "📱 Nueva versión disponible",
+    "download_url": "https://tu-pagina.com/descargar"
 }
