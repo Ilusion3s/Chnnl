@@ -1,0 +1,6 @@
+{
+  "enabled": false,
+  "message": "📱 Nueva versión disponible con mejoras",
+  "update_url": "https://tu-sitio.com/descargar",
+  "version": "2.0"
+}
